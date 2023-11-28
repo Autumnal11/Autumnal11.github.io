@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body align = "center">
 
-<form>
-  User ID: <input type="text" name="user_id">
-  Password: <input type="password" name="Password">
-</form>
-
-</body>
-</html>
