@@ -1,9 +1,11 @@
-import java.util.Scanner;
+<!DOCTYPE html>
+<html>
+<body align = "center">
 
-public class U5_L2_Activity_Four
-{
-  public static void main(String[] args){
-    Scanner scan = new Scanner(System.in);
-    System.out.println("Enter Password:")
-  }
-}
+<form>
+  User ID: <input type="text" name="user_id">
+  Password: <input type="password" name="Password">
+</form>
+
+</body>
+</html>
